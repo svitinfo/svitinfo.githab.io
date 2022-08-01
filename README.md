@@ -1,1 +1,1 @@
-# svitinfo.githab.io
+# svitinfo.github.io
